@@ -1,0 +1,19 @@
+{
+  "name": "token-problem",
+  "version": "1.0.0",
+  "description": "Token Problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Akhil KP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "really-need": "^1.9.2",
+    "supertest": "^6.1.4"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  }
+}
